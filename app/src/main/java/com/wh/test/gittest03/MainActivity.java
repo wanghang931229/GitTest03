@@ -12,9 +12,9 @@ public class MainActivity extends AppCompatActivity {
 
 
         //新建分支
-
+        //Enable Version Control Integration
         //修改了代码
 
-        //
+        //为了测试代码被修改了，添加一行注释，表明代码被修改了1
     }
 }
